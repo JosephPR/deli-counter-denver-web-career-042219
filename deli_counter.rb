@@ -7,3 +7,8 @@ def line(katz_deli)
 end
 end
 
+ def take_a_number(katzDeliLine, name) 
+  
+  katz_deli.push(name)
+  puts "Welcome, ${name}. You are number ${katzDeliLine.length} in line."
+end
