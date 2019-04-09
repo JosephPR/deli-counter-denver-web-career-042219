@@ -8,7 +8,7 @@ end
 end
 
  def take_a_number(katz_line, name) 
-  
+  if katz_line != 0
   katz_deli.push(name)
   puts "Welcome, #{name}. You are number #{katz_line.length} in line."
 end
