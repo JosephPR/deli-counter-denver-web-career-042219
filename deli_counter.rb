@@ -12,3 +12,4 @@ end
   katz_deli.push(name)
   puts "Welcome, #{name}. You are number #{katz_line.length} in line."
 end
+end
