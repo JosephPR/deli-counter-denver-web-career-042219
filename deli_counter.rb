@@ -13,5 +13,6 @@ end
 
 
 def take_a_number (katz_deli, name)
-name.push  
+name.push(name)
+puts #{name}, #{katz_deli.length}
 end
