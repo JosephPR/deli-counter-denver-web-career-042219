@@ -14,5 +14,5 @@ def take_a_number(katz_deli, name)
   while i < katzDeliLine.length 
     line.push()
     i += 1 
-  
+  end
   end
