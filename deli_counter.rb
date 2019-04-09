@@ -4,7 +4,7 @@ def line(place)
   
   
   while place == 0 
-   "The line is currently empty."
+  puts  "The line is currently empty."
 
 end
 end
