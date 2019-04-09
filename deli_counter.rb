@@ -5,7 +5,7 @@ def line(katz_deli)
   puts  "The line is currently empty."
     elsif  katz_deli != 0
   katz_deli.push(name)
-  puts "Thhe line is currently:{katz_deli.length}"
+  puts "The line is currently:#{katz_deli.length}"
 
 
 end
