@@ -1,8 +1,9 @@
 katz_deli = []
 
-def line()
+def line(place)
   
-  while line = 0 
+  
+  while place = 0 
   
   puts "The line is currently empty."
 
