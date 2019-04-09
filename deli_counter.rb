@@ -11,7 +11,7 @@ end
  line == []
 def take_a_number(katz_deli, name)
   let i = 0
-  while (i < katzDeliLine.length) {
+  while i < katzDeliLine.length 
     line.push()
     i += 1 
   
