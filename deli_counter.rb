@@ -7,10 +7,12 @@ def line(katz_deli)
 end
 end
 
+
+ line == []
 def take_a_number(katz_deli, name)
-  let i = 0;
+  let i = 0
   while (i < katzDeliLine.length) {
     line.push(` ` + [i+1] + `. `  + katzDeliLine[i])
-    i++
+    i += 1 
   
   end
